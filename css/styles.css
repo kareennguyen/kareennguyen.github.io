@@ -2670,7 +2670,7 @@ img.u-pull-left {
 }
 
 .text-pretitle.with-line {
-    color        : var(--color-1);
+    color        : var(--color-white);
     padding-left : 6rem;
     transform    : translateX(-6rem);
 }
