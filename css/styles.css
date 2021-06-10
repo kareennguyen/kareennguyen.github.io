@@ -2660,7 +2660,6 @@ img.u-pull-left {
     font-family    : var(--font-1);
     font-size      : var(--text-sm);
     font-weight    : 400;
-    color          : var(--color-white);
     text-transform : uppercase;
     letter-spacing : .3em;
     margin-top     : 0;
