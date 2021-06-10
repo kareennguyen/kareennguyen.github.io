@@ -174,7 +174,7 @@
 
     /* preloader
      */
-    --color-preloader-bg : var(--color-gray-10);
+    --color-preloader-bg : var(--color-tan);
     --color-loader       : white;
     --color-loader-light : rgba(255, 255, 255, 0.1);
 
@@ -1473,7 +1473,7 @@ pre {
 
 pre {
     padding    : var(--vspace-0_75) var(--vspace-1) var(--vspace-1);
-    background : var(--color-tan);
+    background : var(--color-gray-9);
     overflow-x : auto;
 }
 
