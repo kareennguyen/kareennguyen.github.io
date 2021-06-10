@@ -174,13 +174,13 @@
 
     /* preloader
      */
-    --color-preloader-bg : var(--color-tan);
+    --color-preloader-bg : var(--color-gray-10);
     --color-loader       : white;
     --color-loader-light : rgba(255, 255, 255, 0.1);
 
     /* others
      */
-    --color-body    : var(--color-tan);
+    --color-body    : var(--color-gray-10);
     --color-border  : rgba(255, 255, 255, .05);
     --border-radius : 3px;
 }
@@ -518,7 +518,7 @@ body {
 }
 
 body {
-    background-color            : var(--color-body);
+    background-color            : var(--color-tan);
     -webkit-overflow-scrolling  : touch;
     -webkit-text-size-adjust    : 100%;
     -webkit-tap-highlight-color : rgba(0, 0, 0, 0);
@@ -1483,7 +1483,7 @@ code {
     margin        : 0 .2rem;
     padding       : calc(((var(--vspace-1) - 1.6rem) / 2) - .1rem) calc(.8rem - .1rem);
     white-space   : nowrap;
-    background    : var(--color-tan);
+    background    : var(--color-gray-9);
     border        : 1px solid var(--color-gray-8);
     color         : var(--color-text-dark);
     border-radius : 3px;
